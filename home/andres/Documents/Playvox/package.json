@@ -1,0 +1,9 @@
+{
+    "name" : "PruebaGrunt",
+    "version" : "1.0.0",
+    "author" : "Querido Lector",
+    "private" : true,
+    "devDependencies" : {
+        "grunt" : "~0.4.0"
+    }
+}

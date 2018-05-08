@@ -1,0 +1,25 @@
+notas de Testing
+
+--ignore-ssl-errors=true  /// exepcion de url con seguridad. 
+$ Casperjs prueba --fail-fast\ test1.js test2.js /// para arrancar varios test en consola
+$ Casperjs prueba googletesting.js --xunit = log.xml  // para exportar los resultados del conjunto de pruebas en un archivo XML XUnit, que es compatible con las herramientas de integracion continua como Jenkins. Para guradar el registro Xunit de su suit de pruebas, utilice la --xunit.
+
+
+NOta///  CasperJS tiene su propia unidad y conjunto de pruebas funcionales, que se encuentra en el testssubcarpeta. Para ejecutar este conjunto de pruebas:$ casperjs selftest
+($ Casperjs autocomprobación)
+                 
+
+                             la extension de Casper para Pruebas
+este comando:
+
+$ casperjs test [path]
+( prueba $ casperjs [ruta]
+
+es solo un atajo par e
+$ casperjs /path/to/casperjs/tests/run.js [path]
+
+($ Casperjs /path/to/casperjs/tests/run.js [ruta]
+
+
+
+https://testing.plvx.co/quality/search   pagina

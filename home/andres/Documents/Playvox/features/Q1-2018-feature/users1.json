@@ -1,0 +1,20 @@
+{
+  "admin1": {
+    "url": "https://testing.plvx.co",
+    "name": "acorrea@playvox.com",
+    "password": [1234562,"Andresyocampo12", "HolacCom vas", "quehaces1234"]
+  },
+    "admin2": {
+    "url": "https://testing.plvx.co",
+    "name": "acorrea@playvox.com",
+    "password": ["Andresyblank12",1234562,"HolacCom vas", "quehaces1234"]
+  },
+    
+    "analyst": {
+    "url": "https://testing.plvx.co",
+    "name": "acorrea@playvox.com",
+    "password": ["Andresyblank12",1234562,"HolacCom vas", "quehaces1234"]
+  }
+    
+    
+}
